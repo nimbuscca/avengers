@@ -1,6 +1,6 @@
 # Miembros
 
- /Nick alarcon
+ Nick alarcon
 * Capitán America
 * Black panther
 * Black Widow
